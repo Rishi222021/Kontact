@@ -1,4 +1,4 @@
-# 📇 ContactVault - Modern MERN Contact Manager
+# 📇 Konnect - Modern MERN Contact Manager
 
 ContactVault is a sleek, professional-grade MERN stack application designed for seamless contact management with a heavy focus on **High-End UX**, **Security**, and **Fluid Animations**.
 
